@@ -72,7 +72,8 @@ const styles = StyleSheet.create({
         flex: 1,
         width: '100%',
         alignItems: 'center',
-        justifyContent: 'center'
+        justifyContent: 'center',
+        opacity: 100
     },
     title: {
         fontFamily: commonStyles.fontFamily,
@@ -110,7 +111,6 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         fontSize: 20,
         margin: 10,
-        fontWeight: 'bold',
 
     },
     buttonAcont: {
